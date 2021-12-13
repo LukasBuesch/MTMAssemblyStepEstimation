@@ -1,0 +1,7 @@
+{
+    "num_coord_per_joint" : 6,
+    "sliding_window_size" : 10,
+    "model_for_sw_30": "action_detection\\SW_GCN\\addModelHere",
+    "model_for_sw_40": "action_detection\\SW_GCN\\addModelHere",
+    "model_for_sw_100": "action_detection\\SW_GCN\\addModelHere"
+}

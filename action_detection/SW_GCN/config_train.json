@@ -1,0 +1,10 @@
+{
+    "batch_size": 32,
+    "file_train": "InHARD_NoAction_train_10_2021_07_23_05_01.pt",
+    "file_val": "InHARD_NoAction_val_10_2021_07_23_05_11.pt",
+    "train_model_store": "model_less_classes",
+    "num_coord_per_joint" : 6,
+    "workbook": "trainBook",
+    "num_epochs": 50,
+    "train_on_exist": ""
+}

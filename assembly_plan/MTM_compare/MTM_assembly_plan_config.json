@@ -1,0 +1,6 @@
+{
+    "assembly_plan": "panel_pre_assembly",
+    "assembly_plans": "assembly_plan\\MTM_compare\\assembly_plans",
+    "assembly_plans_test": "assembly_plans",
+    "assembly_plan_test": "assembly_plan_test"
+}
