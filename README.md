@@ -8,15 +8,18 @@ This repository contains an early version of an assembly step estimation based o
 This repository serves as a complement for the following paper. Please cite this [paper]() if you use this repository in your research.
 
 ```
- @article{Koch.2022,
- author = {Koch, Julian and B{\"u}sch, Lukas and Gomse, Martin and Sch{\"u}ppstuhl, Thorsten},
- year = {2022},
- title = {A Methods-Time-Measurement Based Approach To Enable Action Recognition for Multi-Variant Assembly in Human-Robot Collaboration},
- pages = {},
- volume = {},
- issn = {},
- journal = {Procedia CIRP},
- doi = {}
+@article{Koch.2022,
+title = {A Methods-Time-Measurement based Approach to enable Action Recognition for Multi-Variant Assembly in Human-Robot Collaboration},
+journal = {Procedia CIRP},
+volume = {106},
+pages = {233-238},
+year = {2022},
+note = {9th CIRP Conference on Assembly Technology and Systems},
+issn = {2212-8271},
+doi = {https://doi.org/10.1016/j.procir.2022.02.184},
+url = {https://www.sciencedirect.com/science/article/pii/S2212827122001858},
+author = {Koch, Julian and B{\"u}sch, Lukas and Gomse, Martin and Sch{\"u}ppstuhl, Thorsten},
+keywords = {Assembly, Human Action Recognition, Assembly Step Recognition, Human-Robot Collaboration, Industry 4.0, Methods-Time-Measurement, Azure Kinect, Skeleton Based Action Recognition, Particle Swarm Optimization, Artificial Neural Network}
 }
 ```
 
